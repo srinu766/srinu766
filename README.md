@@ -1,41 +1,24 @@
 <h1 align="center">Hi there, I'm Srinivasulu Soppari 👋</h1>
 
 <p align="center">
-  <b>Frontend Developer | React.js Enthusiast | 2+ Years Experience</b><br/>
+  <b>Frontend Developer | React.js Enthusiast</b><br/>
   Building scalable, performant, and user-friendly web applications
 </p>
 
 <p align="center">
-  <a href="mailto:srinivasulusoppari777@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://github.com/srinu766">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/soppari-srinivasulu">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Hyderabad-orange?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Frontend Developer** with 2+ years of experience building enterprise-grade dashboards and full-stack applications. Currently working at **DRUVO**, where I develop HRM/CRM/ERP-style platforms using React.js. I'm passionate about clean architecture, reusable components, and delivering intuitive user experiences.
-
----
-
-## 💼 Work Experience
-
-### 🏢 DRUVO — Frontend Developer *(Dec 2023 – Present)*
-- Built a scalable **HRM/CRM/ERP-style** employee management dashboard using **React.js** and **Context API**
-- Implemented secure **JWT authentication** with structured role-based access (Admin, Manager, Employee)
-- Created reusable UI components using **TailwindCSS**, **Bootstrap**, and **Ant Design**
-- Integrated **RESTful APIs** for employee lifecycle, leave workflows, and performance tracking
-- Added persistent session management via **LocalStorage** for seamless login retention
-- Developed a comprehensive **Admin Panel** for onboarding, deactivation, and role assignments
-- Optimized data loading using **lazy loading**, **pagination**, and **request throttling**
+I'm a **Frontend Developer** with 2+ years of experience building enterprise-grade dashboards and full-stack applications. I'm passionate about clean architecture, reusable components, and delivering intuitive user experiences.
 
 ---
 
@@ -69,44 +52,10 @@ I'm a **Frontend Developer** with 2+ years of experience building enterprise-gra
 
 ---
 
-## 📂 Featured Projects
-
-### 🔗 [DevTinder – Social Connection Platform](https://github.com/srinu766)
-> A full-stack social networking app connecting developers based on tech stacks, with a Tinder-style swipe feed.
-
-- 🔐 JWT authentication & secure session management
-- 💬 Real-time chat via **Socket.io** with live online status
-- 💳 **Razorpay** payment integration for tiered subscriptions (Silver/Gold)
-- 🤖 Generative AI features for intelligent recommendations
-- ⚡ MongoDB indexing & search debouncing for performance
-
-**Stack:** React.js · Node.js · Express.js · MongoDB · Socket.io · Razorpay
-
----
-
-### 📺 [Video Streaming App](https://github.com/srinu766)
-> A YouTube-style video streaming app with smart search and real-time chat.
-
-- 📡 Live feed integration via **YouTube API**
-- 💬 Nested comments & anonymous live chat
-- 🔄 **Redux Toolkit** for state management and API caching
-- ✨ Shimmer loading & infinite scroll for smooth UX
-
-**Stack:** React.js · Redux Toolkit · YouTube API
-
----
-
 ## 🎓 Education
 
 **B.Tech – Computer Science Engineering**
 Sree Dattha Institute of Engineering and Science *(2019 – 2022)*
-
----
-
-## 📜 Certifications
-
-- ✅ Advanced React Development
-- ✅ Node.js Development
 
 ---
 
